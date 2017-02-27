@@ -14,7 +14,12 @@ namespace ConsoleApplication1
             int i = 0;
             int a = 12;
             int b = Convert.ToInt32(Console.Read());
-            Console.Write(a+b);
+            int d = 12;
+            Console.Write(a+b+d);
+        }
+        public void a()
+        {
+            int c = 0;
         }
     }
 }

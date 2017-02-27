@@ -20,6 +20,7 @@ namespace ConsoleApplication1
         public void a()
         {
             int c = 0;
+            Console.Write(c);
         }
     }
 }

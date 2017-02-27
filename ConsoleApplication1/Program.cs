@@ -12,7 +12,6 @@ namespace ConsoleApplication1
         {
             //test
             int i = 0;
-            int a = 12;
             int b = Convert.ToInt32(Console.Read());
             int d = 11;
             Console.Write(a+b+d);

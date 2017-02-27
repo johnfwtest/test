@@ -13,7 +13,8 @@ namespace ConsoleApplication1
             //test
             int i = 0;
             int a = 12;
-            Console.Write(a + i);
+            int b = Convert.ToInt32(Console.Read());
+            Console.Write(a+b);
         }
     }
 }
